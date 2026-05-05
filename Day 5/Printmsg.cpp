@@ -8,6 +8,6 @@ void printmsg()
 
 int main()
 {
-    printmsg{};
+    printmsg();
     return 0;
 }
