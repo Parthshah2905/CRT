@@ -16,7 +16,7 @@ int main() {
 
     applyDiscount(bill);
 
-    cout << "Bill after 10% discount: " << billAmount << endl;
+    cout << "Bill after 10% discount: " << bill<< endl;
 
     return 0;
 }
